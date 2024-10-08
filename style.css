@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+img{
+    width: 1230px;
+    height: 52px;
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 30px;
+}
+
+li{
+    font-family: Ubuntu;
+    font-size: 16px;
+    text-align: left;
+    color: #424551;
+    gap: 40px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 25.6px;
+    text-align: left;
+}
+
+.telefon{
+    width: 40px;
+    height: 40px;
+}
+
+.chat{
+    width: 40px;
+    height: 40px;
+}
